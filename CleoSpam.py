@@ -238,7 +238,7 @@ def main():
 			
 		elif pilih == '5':
 			print
-			os.system('xdg-open https://www.youtu.be/fFj6j-yQ62o')
+			os.system('xdg-open https://youtu.be/fFj6j-yQ62o')
 			sleep(2)
 			tanya = raw_input(W+'Udah Subscribe Belum ?'+C+' ^_^'+W+' ['+C+'Y'+W+'/'+C+'n'+W+']'+C+' : '+W+'')
 			if tanya.upper() == 'Y':
@@ -282,13 +282,13 @@ if __name__ == '__main__':
 	os.system(clear)
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Bro !'+C+' :v')
 	print
-	os.system('xdg-open https://www.youtu.be/fFj6j-yQ62o')
+	os.system('xdg-open https://youtu.be/fFj6j-yQ62o')
 	sleep(4)
 	tanya = raw_input(W+'Udah Subscribe dan follow INSTAGRAM CLEO CYBER Belum ?'+C+' ^_^'+W+' ['+C+'Y'+W+'/'+C+'n'+W+']'+C+' : '+W+'')
 	if tanya.upper() == 'Y':
 		print
 		print(W+'Terima Kasih'+C+' ^_^')
-		sleep(5)
+		sleep(2)
 		main()
 		
 	else:
