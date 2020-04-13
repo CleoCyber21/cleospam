@@ -24,12 +24,16 @@ else:
 def banner():
 	os.system(clear)
 	print(''+C+'''
- ▄▄· ▄▄▌  ▄▄▄ .          .▄▄ ·  ▄▄▄· ▄▄▄· • ▌ ▄ ·. 
-▐█ ▌▪██•  ▀▄.▀·▪         ▐█ ▀. ▐█ ▄█▐█ ▀█ ·██ ▐███▪
-██ ▄▄██▪  ▐▀▀▪▄ ▄█▀▄     ▄▀▀▀█▄ ██▀·▄█▀▀█ ▐█ ▌▐▌▐█·
-▐███▌▐█▌▐▌▐█▄▄▌▐█▌.▐▌    ▐█▄▪▐█▐█▪·•▐█ ▪▐▌██ ██▌▐█▌
-·▀▀▀ .▀▀▀  ▀▀▀  ▀█▄▀▪     ▀▀▀▀ .▀    ▀  ▀ ▀▀  █▪▀▀▀
-                '''+W+'instagram : @CLEO CYBER_\n\t\t     YT : CLEO CYBER')
+ 
+ _____                         _____       _ _ 
+/  ___|                       /  __ \     | | |
+\ `--. _ __   __ _ _ __ ___   | /  \/ __ _| | |
+ `--. \ '_ \ / _` | '_ ` _ \  | |    / _` | | |
+/\__/ / |_) | (_| | | | | | | | \__/\ (_| | | |
+\____/| .__/ \__,_|_| |_| |_|  \____/\__,_|_|_|
+      | |                                      
+      |_|                                      
+                '''+W+'INSTAGRAM : @cleocyber\n\t\t     YT : Cleo Cyber')
                 
 def tiks(s):
 	for x in s + '\n':
@@ -40,23 +44,23 @@ def tiks(s):
 def main():
 	banner()
 	print
-	print(C+' Diperbarui Tanggal : '+W+'11 April 2020')
+	print(C+' Diperbarui Tanggal : '+W+'14 April 2020')
 	print
 	tiks(W+50*'=')
-	tiks(C+'\tTOOLS\t\t LIMIT\t\tSTATUS')
+	tiks(C+'\tTOOLS\t\t BATAS\t\tINFO')
 	tiks(W+50*'=')
 	print
-	tiks(C+'['+W+'1'+C+']'+W+' SPAM CALL V1' +W+'\t3X / 1 HARI'+W+'\tACTIVE'+H+' \xE2\x9C\x94')
+	tiks(C+'['+W+'1'+C+']'+W+' SPAM CALL V1' +W+'\t3X / 1 HARI'+W+'\tAKTIF'+H+' \xE2\x9C\x94')
 	tiks(C+50*'=')
-	tiks(C+'['+W+'2'+C+']'+W+' SPAM CALL V2'+W+'\t3X / 1 HARI'+W+'\tACTIVE'+H+' \xE2\x9C\x94')
+	tiks(C+'['+W+'2'+C+']'+W+' SPAM CALL V2'+W+'\t3X / 1 HARI'+W+'\tAKTIF'+H+' \xE2\x9C\x94')
 	tiks(C+50*'=')
-	tiks(C+'['+W+'3'+C+']'+W+' SPAM CALL V3'+W+'\t3X / 1 HARI'+W+'\tACTIVE'+H+' \xE2\x9C\x94')
+	tiks(C+'['+W+'3'+C+']'+W+' SPAM CALL V3'+W+'\t3X / 1 HARI'+W+'\tAKTIF'+H+' \xE2\x9C\x94')
 	tiks(C+50*'=')
-	tiks(C+'['+W+'4'+C+']'+W+' REPORT BUG'+K+'\t\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
+	tiks(C+'['+W+'4'+C+']'+W+' REPORT BUG'+K+'\t\t    -\t\t'+W+'AKTIF'+H+' \xE2\x9C\x94')
 	tiks(C+50*'=')
-	tiks(C+'['+W+'5'+C+']'+W+' SUBSCRIBE YT'+K+'\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
+	tiks(C+'['+W+'5'+C+']'+W+' SUBSCRIBE YT'+K+'\t    -\t\t'+W+'AKTIF'+H+' \xE2\x9C\x94')
 	tiks(C+50*'=')
-	tiks(C+'['+W+'X'+C+']'+W+' EXIT / KELUAR'+K+'\t    -\t\t'+W+'ACTIVE'+H+' \xE2\x9C\x94')
+	tiks(C+'['+W+'X'+C+']'+W+' EXIT / KELUAR'+K+'\t    -\t\t'+W+'AKTIF'+H+' \xE2\x9C\x94')
 	tiks(C+50*'=')
 	
 	try:
@@ -234,7 +238,7 @@ def main():
 			
 		elif pilih == '5':
 			print
-			os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
+			os.system('xdg-open https://www.youtu.be/fFj6j-yQ62o')
 			sleep(2)
 			tanya = raw_input(W+'Udah Subscribe Belum ?'+C+' ^_^'+W+' ['+C+'Y'+W+'/'+C+'n'+W+']'+C+' : '+W+'')
 			if tanya.upper() == 'Y':
@@ -278,13 +282,13 @@ if __name__ == '__main__':
 	os.system(clear)
 	print(C+'Subscribe YT'+W+' Gua Dlu Ya Bro !'+C+' :v')
 	print
-	os.system('xdg-open https://www.youtube.com/channel/UCzsADl8XRJeZXJ6CKZLX5KQ')
-	sleep(2)
-	tanya = raw_input(W+'Udah Subscribe Belum ?'+C+' ^_^'+W+' ['+C+'Y'+W+'/'+C+'n'+W+']'+C+' : '+W+'')
+	os.system('xdg-open https://www.youtu.be/fFj6j-yQ62o')
+	sleep(4)
+	tanya = raw_input(W+'Udah Subscribe dan follow INSTAGRAM CLEO CYBER Belum ?'+C+' ^_^'+W+' ['+C+'Y'+W+'/'+C+'n'+W+']'+C+' : '+W+'')
 	if tanya.upper() == 'Y':
 		print
 		print(W+'Terima Kasih'+C+' ^_^')
-		sleep(2)
+		sleep(5)
 		main()
 		
 	else:
